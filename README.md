@@ -1,7 +1,8 @@
 - 👋 Hi, I’m chukwudi ozoede
-- 👀 I’m interested in data, statistics and data visulization
-- 🌱 I’m currently learning SQL, python, tableau for data science
-- 💞️ I’m looking to collaborate on data analytics/data science projects
+- 🎓 I have a bachelors degree in Electrical and Electronic Engineering
+- 👨‍💼 I’m a business analyst at Epic Soundz Ltd.
+- 🌱 I’m currently learning data science, artificial intelligence and cloud development from Udacity, Coursera, Youtube and kaggle
+- 💻 I’m looking to collaborate on data analytics/data science projects
 - 📫 How to reach me: chukwudiozoede@gmail.com
 
 <!---
