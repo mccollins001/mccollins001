@@ -9,3 +9,11 @@
 mccollins001/mccollins001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+def abhishek():
+  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'HTML & CSS': 'Intermidiate'}
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'flask', 'alteryx', 'keras']
+  cloud_architecture = ['heroku']
+  kaggle_competition = 1
+  analytics_vidhya_competitions = 5
+  dockship_competition = 1
+  return ∞
